@@ -1,0 +1,20 @@
+ea0319f Update readme.md
+72a26ec Update readme.md
+81e3b95 add overload for doubles
+963a5cb add CTest
+b0b21d6 remove submodule and cleanup
+5b7c8ca update for ctest (ep 13)
+147484f update license and readme
+53041d5 remove sh files
+37d0783 find and use glew
+9c11df9 fix type
+9a0ecfa use find_library
+e941f58 add cpack
+9fa0653 install added
+ac47212 optional libs
+3a8234c add submodule pull down
+9e18f8d glfw demo
+e7d9f68 init
+ae882c5 add linxh sh terminal commands
+1caa6bd add submodule glfw
+bec287a init
